@@ -9,4 +9,5 @@ class Test:
 
 
 T = Test("stone", 12)
+
 T.test()

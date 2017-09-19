@@ -4,6 +4,7 @@ class Test:
         self.age = age
 
     def test(self):
+        
         print(self.age)
         print(self.name)
 

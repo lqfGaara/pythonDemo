@@ -13,3 +13,4 @@ T = Test("stone", 12)
 
 
 T.test()
+print("test 123")

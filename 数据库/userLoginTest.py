@@ -21,3 +21,5 @@ elif (dbpwd[0][0] == spwd):
     print("登录成功！")
 else:
     print("登录失败！密码错误")
+
+sqlHelper.close()
